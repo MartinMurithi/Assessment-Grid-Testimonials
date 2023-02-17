@@ -82,6 +82,7 @@ img{
 
 .heading{
     margin-left: 30px;
+    margin-right: 10px;
     padding: 4px;
     font-size: 1.2rem;
     color: white;
@@ -105,9 +106,15 @@ img{
 }
 #jeanetteIntro{
     color: hsl(219, 29%, 14%);
+    opacity: 70%;
 }
 
 #jeanetteBody{
+    color: hsl(219, 29%, 14%);
+    opacity: 70%;
+}
+
+#kiraName, #kiraIntro{
     color: hsl(219, 29%, 14%);
     opacity: 70%;
 }
